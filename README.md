@@ -36,12 +36,11 @@ C++ 관련 고급 문법과 다양한 고급 테크닉을 배우는 과정입니
 
 #### Course Curriculum
 - Section 0: Orientation
-- Section 1: Warming Up
-- Section 2: 공통성과 가변성의 분리
-- Section 3: 재귀적 포함
-- Section 4: 간접층의 원리
-- Section 5: 통보, 열거, 방문
-- Section 6: 객체를 생성하는 방법
+- Section 1. C++ 기본 문법 다시 보기
+- Section 2. C++ 11/14/17 기본 문법
+- Section 3. rvalue 와 move semantics
+- Section 4. Perfect forwarding
+- Section 5. Lambda Expression
 
 
 ## 4. C++ Template Programming
@@ -71,6 +70,7 @@ C++의 Template 기술은 C++ 에서 가장 신기하고, 재미있고, 깊이�
 3. thread/future/async 등 스레드 관련 라이브러리를 배우게 됩니다.
 
 #### Course Curriculum
+- Section 0: Orientation
 - Section 1: STL Preview
 - Section 2: 구현을 통해서 이해하는 STL의 설계 철학
 - Section 3: Iterator
