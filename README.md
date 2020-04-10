@@ -78,3 +78,11 @@ C++의 Template 기술은 C++ 에서 가장 신기하고, 재미있고, 깊이�
 - Section 5: Container
 - Section 6: Utility
 - Section 7: Concurrency
+
+
+## Build
+#### g++ compiler
+g++ hello.cpp -std=c++1z
+
+#### MS cl compiler
+cl hello.cpp /std:c++latest /nologo /EHsc /Za
