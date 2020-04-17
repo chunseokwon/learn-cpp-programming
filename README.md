@@ -1,5 +1,6 @@
-# learn-cpp-programming
-Learn C++ Programming
+# Learn C++ Programming
+C++ 학습 프로그램의 학습 내용 정리입니다.
+
 
 ## 1. C++ Programming Basic
 C++언어의 기본 문법과 객체지향 프로그래밍 기술을 배우는 과정입니다. C++98/03 문법 뿐 아니라 C++11/14/17 의 내용도 배우게 됩니다. 본 과정은 C++의 특정 주제를 깊이 있게 다루기 보다는 C++의 전체적인 특징을 빠르고 효율적으로 습득할수 있도록 구성되었습니다.
@@ -32,7 +33,6 @@ C++은 C언어의 모든 요소를 포함 하지만, 본 과정에서는 C 의 �
 
 ## 3. C++ Intermediate
 C++ 관련 고급 문법과 다양한 고급 테크닉을 배우는 과정입니다. C++ 언어의 문법들을 다양한 관점에서 깊이 있게 살펴 보고, C++ 진영에서 사용되는 다양한 코딩 관례, 테크닉을 깊이 있는 관점에서 배우게 됩니다. C++98/03 문법 뿐 아니라 C++11/14 그리고 C++17/20 의 내용도 배우게 됩니다. C++ 문법 뿐 아니라 “C++ IDioms” 라고 알려져 있는 다양한 테크닉도 배우게 됩니다.
-
 
 #### Course Curriculum
 - Section 0: Orientation
@@ -86,3 +86,8 @@ g++ hello.cpp -std=c++1z
 
 #### MS cl compiler
 cl hello.cpp /std:c++latest /nologo /EHsc /Za
+
+
+## 출처
+- ecourse.co.kr
+- https://github.com/codenuri/CPP1
